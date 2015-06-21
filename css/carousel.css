@@ -2,6 +2,8 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
